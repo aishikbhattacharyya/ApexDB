@@ -1,10 +1,8 @@
 # RookieDB
 
-## The code
-
 ### cli
 
-The cli directory contains all the logic for the database's command line interface. Running the main method of CommandLineInterface.java will create an instance of the database and create a simple text interface that you can send and review the results of queries in. **The inner workings of this section are beyond the scope of the class** (although you're free to look around), you'll just need to know how to run the Command Line Interface.
+The cli directory contains all the logic for the database's command line interface. Running the main method of CommandLineInterface.java will create an instance of the database and create a simple text interface that you can send and review the results of queries in.
 
 #### cli/parser
 
@@ -21,8 +19,8 @@ are not limited to any one part of the codebase.
 
 ### concurrency
 
-The `concurrency` directory contains a skeleton for adding multigranularity
-locking to the database. You will be implementing this in Project 4.
+The `concurrency` directory has multigranularity
+locking to the database.
 
 ### databox
 
