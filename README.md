@@ -1,4 +1,4 @@
-# InfinityDB
+# RookieDB
 
 ## The code
 
